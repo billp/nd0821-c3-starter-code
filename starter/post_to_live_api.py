@@ -2,7 +2,7 @@
 import requests
 
 # Replace with your actual deployed app URL.
-URL = "https://YOUR-APP-NAME.onrender.com/predict"
+URL = "https://nd0821-c3-starter-code-apev.onrender.com/predict"
 
 
 def main():
