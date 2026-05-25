@@ -112,6 +112,7 @@ dmypy.json
 # Models
 *.pkl
 *.joblib
+!starter/model/*.pkl
 *.h5
 *.hdf5
 *.model
